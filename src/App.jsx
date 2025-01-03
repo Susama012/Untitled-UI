@@ -21,13 +21,14 @@ function App() {
       <BrowserRouter>
         <Navbar />
       <Routes>
-        <Route path='/' element={ <Home />}/>
+        {/* <Route path='/' element={ <Home />}/>
         <Route path='/resources' element={ <Resources/>}/>
         <Route path='/blogs' element={ <Blogs />}>Blogs</Route>
         <Route path='/pricing' element={ <Pricing/> }>Pricing</Route>
-        <Route path='/products' element={<Products/>}>Products</Route>
+        <Route path='/products' element={<Products/>}>Products</Route> */}
       </Routes>
       </BrowserRouter>
+      <Home />
       <Companies />
       <Features />
       <Company />

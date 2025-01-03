@@ -5,6 +5,7 @@ import { faFileExport } from '@fortawesome/free-solid-svg-icons/faFileExport'
 import { faRing } from '@fortawesome/free-solid-svg-icons/faRing'
 import { faWaze } from '@fortawesome/free-brands-svg-icons/faWaze'
 import { faSquarespace } from '@fortawesome/free-brands-svg-icons'
+
 function Features() {
   return (
     <div className='main-div'>

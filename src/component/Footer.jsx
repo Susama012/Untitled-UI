@@ -79,7 +79,7 @@ const Footer = () => {
         <img src={untitledui} alt="logo" className='logo2'/>
         <div className="footer-logo">Untitled UI</div>
         </div>
-        <p className="footer-para">© 2077 zysk technologies. All rights reserved.</p>
+        <p className="footer-para">© 2077 UntitledUI . All rights reserved.</p>
       </div>
     </footer>
   );
